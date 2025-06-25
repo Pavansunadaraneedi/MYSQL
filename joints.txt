@@ -1,0 +1,10 @@
+Joins: JOins are used to combine multiple tables such as that the result 
+
+i.  Inner Joins
+ii. Left Join
+iii. Right Join
+iv. Full outer Join
+v.  Cross Join
+vi. Self Join
+
+i.Inner Join: 
